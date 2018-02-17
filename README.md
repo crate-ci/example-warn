@@ -12,6 +12,9 @@ example-warn
 
 Windows support is left out because it is irrelevant to the example.
 
+Note: this repo is configured to build on a schedule to prevent it from going stale
+- TravisCI: Once a month unless there was a build in the last 24 hours
+
 ## Requirements
 
 - Your crate must be hosted on GitHub (free).
